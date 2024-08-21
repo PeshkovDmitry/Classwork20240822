@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c71ebae8-5fab-4669-a72b-5ab79a4477ae" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="c71ebae8-5fab-4669-a72b-5ab79a4477ae" name="Changes" comment="Сделал, как понял, задание 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task02.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,12 +37,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Task01.executor": "Run",
+    "Python.Task02.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -60,6 +61,19 @@
       <option name="presentableId" value="Default" />
       <updated>1724240174109</updated>
     </task>
+    <task id="LOCAL-00001" summary="Сделал, как понял, задание 1">
+      <option name="closed" value="true" />
+      <created>1724264088764</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1724264088764</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Сделал, как понял, задание 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Сделал, как понял, задание 1" />
   </component>
 </project>
