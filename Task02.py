@@ -32,7 +32,7 @@ def main(func: Callable):
     return wrapper
 
 
-def attemp(num: int, cnt: int) -> bool:
+def attempt(num: int, cnt: int) -> bool:
     current_attempt: int = 0
     while current_attempt < cnt:
         num_from_console = int(input("Введите число -> "))
@@ -42,7 +42,7 @@ def attemp(num: int, cnt: int) -> bool:
     return False
 
 
-run = main(attemp)
+run = main(attempt)
 if run(25, 15):
     print("Вы угадали")
 else:
