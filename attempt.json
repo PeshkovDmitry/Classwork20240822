@@ -1,7 +1,7 @@
 [
     {
         "num": 25,
-        "cnt": 9,
+        "cnt": 3,
         "result": [
             true,
             true
@@ -9,7 +9,7 @@
     },
     {
         "num": 25,
-        "cnt": 10,
+        "cnt": 6,
         "result": [
             true,
             true
